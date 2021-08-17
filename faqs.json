@@ -1,0 +1,28 @@
+{
+  "faqs": {
+    "faq": [
+      {
+        "question": "How to book a cab at Safar Car Rental?",
+        "answer": "Easy ",
+        "photo": "",
+        "tags": {
+          "tag":[
+            "App related",
+            "My Account"
+          ]
+        }
+      },
+      {
+        "question": "How to book a cab at Safar Car Rental?",
+        "answer": "Easy ",
+        "photo": "",
+        "tags": {
+          "tag":[
+            "App related",
+            "My Account"
+          ]
+        }
+      }
+    ]
+  }
+}
