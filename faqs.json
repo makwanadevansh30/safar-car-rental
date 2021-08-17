@@ -1,28 +1,20 @@
 {
-  "faqs": {
-    "faq": [
-      {
-        "question": "How to book a cab at Safar Car Rental?",
-        "answer": "Easy ",
-        "photo": "",
-        "tags": {
-          "tag":[
-            "App related",
-            "My Account"
-          ]
+    "FAQs": [{
+            "question": "How to book a cab at Safar Car Rental?",
+            "answer": "Easy 3 steps. sjsnk ",
+            "photo": "",
+            "tags": [
+                "App related"
+            ]
+        },
+        {
+            "question": "How to create an Safar Car Rental account?",
+            "answer": "Here are a few tips to help you get started with Safar Car Rental - While registering, please select your country. Enter the mobile number that you would like to use to book an Safar Car Rental ride. You will receive an OTP on your phone to verify your mobile number. - Next, enter the details such as your name and email to create an Safar Car Rental account. Once you've filled in all the details, tap REGISTER. If you have a referral code, you can apply the referral code in Got a referral code?  You can earn a free-ride coupon by entering a referral code while signing up. You can get the referral code from a friend who has an Safar Car Rental account. The referral code can be found in the Refer & Earn section of your friend's Safar Car Rental app. Note- If the mobile number entered is correct and you haven’t received the SMS with OTP details, you can request for OTP again by clicking on Resend OTP or  Get OTP over a call. Please note that there is a limit on the number of accounts that can be created on one mobile device.",
+            "photo": "",
+            "tags": [
+                "My account",
+                ""
+            ]
         }
-      },
-      {
-        "question": "How to book a cab at Safar Car Rental?",
-        "answer": "Easy ",
-        "photo": "",
-        "tags": {
-          "tag":[
-            "App related",
-            "My Account"
-          ]
-        }
-      }
     ]
-  }
 }
