@@ -24,6 +24,46 @@
                 "My account",
                 ""
             ]
+        },
+        {
+            "question": "I want to check my fare breakup",
+            "answer": "You can check the total fare for your ride on Safar Car Rental webapp by entering the drop location. On entering the drop location, you will be able to view the estimated fare for every cab category. The total fare for your Safar Car Rental ride is calculated by adding the following:- - Base Fare - A flat fare charged up to a particular distance or for the first few kms. - Distance Fare - The fare charged on per km traveled. Depending on the city, the Rate/Km may vary after a threshold distance or an extra charge may be applicable after a particular distance. - Ride Time Fare -The fare charged on the total time duration of the trip from pickup time to drop time. This also includes driver waiting time before the trip starts, wait time in traffic or at traffic signals during the ride. - Peak Pricing (if applicable)-Peak pricing is applied on standard fares depending on the time of booking. It is not a fixed charge and varies as per the demand for the cabs in your area. - Advance Booking Fee ( if applicable)- Advance booking fee is a flat amount charged on all Ride Later bookings.The fee will be added to your ride bill on completion of the trip. - Access Fee (if applicable)- Access fee is applicable on auto rides. It is a fee charged for availing the Safar Car Rental platform. - Convenience Fee (if applicable)- Convenience fee is applicable on Prime Play rides for providing you in-cab entertainment. The fee may vary from city to city. You can check the Total Fare breakup (click on the ‘i’ icon ) for the convenience fee before confirming a booking. - Airport Charges (if applicable)- A surcharge fee may be charged for airport pickup and drop (depending on the city.) - Toll and Parking Fee (if applicable) - Taxes (as per the state taxation rules) Note - Base Fare, Distance Fare, and Ride Time Fare may vary depending on the demand for cabs during that time and the cab category selected. You will always be informed before you confirm the booking of any fare increase (if applicable). You can always check the invoice sent to your registered email id for understanding the fare breakup of your rid ",
+            "photo": "",
+            "tags": [
+                "Fares & Payments"
+            ]
+        },
+        {
+            "question": "Why is cancellation fee charged?",
+            "answer": "If you feel that you were charged a cancellation fee incorrectly, you can request a Cancellation Fee Waiver.Please click here to know how you can request a Cancellation Fee Waiver. Cancellation fee is charged to compensate drivers for the time, effort and fuel spent while trying to reach the pickup location. You may be charged a cancellation fee if any one of the following occurs: (a) where:(i) the estimated time of arrival of the driver is less than 5 minutes and you cancel the booking 3 minutes or later after the booking has been accepted by the driver, or(ii) the estimated time of arrival of the driver is 5 minutes or more and you cancel the booking 5 minutes or later after the booking has been accepted by the driver, or(b) a driver has already arrived at your pickup location, or(c) a driver cancels the booking after waiting at your pickup location for 5 minutes or more, or(d) canceling an Ola Share ride 2 minutes or later after making a booking. However, the cancellation fee will not be charged if the driver is delayed in reaching the picking up location by more than 5 minutes from the shown estimated time of arrival. The cancellation fee amount may vary depending on your city, and the vehicle category selected. A cancellation fee, if charged, will be added to the total bill amount of your next Ola ride.",
+            "photo": "",
+            "tags": [
+                "Fares & Payments"
+            ]
+        },
+        {
+            "question": "What is peak pricing?",
+            "answer": "Peak Pricing is an additional charge applicable when the demand for cabs is higher than the number of cabs actually available near your location. A variety of factors such as office rush hours, heavy rain , holiday or a local event can cause rise in demand for cabs which may result in peak pricing being applied on your ride. Peak pricing is not a fixed charge and varies depending on the demand for cabs. For example- If the peak pricing applicable on your booking is 1.2x then your total fare will increase by 1.2 times. In some cities, during high demand time, revised total fare will be shown for your ride before you confirm a booking. We at Ola believe in transparent pricing. You will always be informed if peak pricing is applicable on your ride before you confirm a booking. If you feel that the peak pricing applied on your ride is high, you can try choosing from other cab categories available on the Safar Car Rental or or alternately try booking a cab from your Safar Car Rental after a few minutes.",
+            "photo": "",
+            "tags": [
+                "Fares & Payments"
+            ]
+        },
+        {
+            "question": "How can I request a cancellation fee waiver?",
+            "answer": "If you think you were wrongly charged a cancellation fee, we would be happy to help. Click Your Rides in the Safar Car Rental menu and follow the below steps:-   -   Select the ride on which cancellation fee has been charged. -   Tap the  Support button. -  From Choose an Issue, select Charged Cancellation Fee Incorrectly. -   Tell us more about your problem and send it to us. We will look into your request and get back to you soon.",
+            "photo": "",
+            "tags": [
+                "Fares & Payments"
+            ]
+        },
+        {
+            "question": "What is advance booking fee?",
+            "answer": "Advance booking fee is a flat amount charged on all Ride Later bookings. Once your ride later booking is confirmed, you will be informed via SMS on your registered mobile number about the advance booking fee applicable on your ride. The fee will be added to your ride bill on completion of the trip. You can always check the invoice sent to your registered email id for understanding the fare breakup of your ride.",
+            "photo": "",
+            "tags": [
+                "Fares & Payments"
+            ]
         }
     ]
 }
