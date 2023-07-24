@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Invoice - Safar Car Rental</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    .invoice-container {
+      width: 600px;
+      margin: 0 auto;
+    }
+    .invoice-header {
+      background-color: #19e3fa;
+      padding: 20px;
+      text-align: center;
+    }
+    .invoice-body {
+      padding: 20px;
+    }
+    .invoice-footer {
+      background-color: #19e3fa;
+      padding: 20px;
+      text-align: right;
+    }
+    .invoice-footer p {
+      margin: 5px 0;
+    }
+    .logo {
+      width: 150px;
+    }
+    .invoice-info {
+      text-align: right;
+    }
+    .invoice-info p {
+      margin: 5px 0;
+    }
+    table {
+      width: 100%;
+      margin-top: 20px;
+      border-collapse: collapse;
+    }
+    th, td {
+      padding: 10px;
+      border-bottom: 1px solid #19e3fa;
+    }
+    th {
+      text-align: left;
+    }
+    tfoot td {
+      border-top: 1px solid #19e3fa;
+    }
+  </style>
+</head>
+<body>
+  <div class="invoice-container">
+    <div class="invoice-header">
+      <img class="logo" src="./img/Safar_Car_Rental_LOGO.png" alt="Safar Car Rental Logo">
+    </div>
+    <div class="invoice-body">
+      <div class="invoice-info">
+        <p><strong>Invoice Number:</strong> INV00123</p>
+        <p><strong>Date:</strong> July 1, 2023</p>
+      </div>
+      <h2>Invoice</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Car Rental Details</th>
+            <th>Quantity</th>
+            <th>Unit Price</th>
+            <th>Total</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <strong>Car Model:</strong> Honda City<br>
+              <strong>Rental Duration:</strong> 3 days<br>
+              <strong>Pick-up Date:</strong> July 5, 2023<br>
+              <strong>Return Date:</strong> July 8, 2023
+            </td>
+            <td>1</td>
+            <td>₹ 50.00 per day</td>
+            <td>₹ 150.00</td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <td colspan="3" align="right"><strong>Subtotal:</strong></td>
+            <td>₹ 150.00</td>
+          </tr>
+          <tr>
+            <td colspan="3" align="right"><strong>Tax (10%):</strong></td>
+            <td>₹ 15.00</td>
+          </tr>
+          <tr>
+            <td colspan="3" align="right"><strong>Total:</strong></td>
+            <td>₹ 165.00</td>
+          </tr>
+        </tfoot>
+      </table>
+    </div>
+    <div class="invoice-footer">
+      <p>Payment due within 30 days.</p>
+      <p>Accepted payment methods: Credit Card, PayPal</p>
+    </div>
+  </div>
+</body>
+</html>

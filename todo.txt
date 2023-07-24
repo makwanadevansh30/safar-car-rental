@@ -1,0 +1,13 @@
+Safar Car Rental
+Web3 portal for Car Rental
+
+[ ] Login
+[ ] Register
+[ ] Home
+[ ] Search
+[ ] Car Details
+[ ] Booking
+[ ] Payment
+[ ] Profile
+[ ] Admin Panel
+

@@ -1,2 +1,2 @@
-# safar-faqs
-All safar FAQs in json format
+# Safar Car Rental 
+Web3 Car Rental Project. 
